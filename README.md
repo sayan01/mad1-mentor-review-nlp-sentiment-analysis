@@ -21,7 +21,9 @@ python porterstemmer.py
 ## Output as of 17 Aug:
 
 ```
-Enter the path to the text file(review): Enter common words file path(common): Top Frequently used Words in Reviews
+Enter the path to the text file(review):
+Enter common words file path(common):
+Top Frequently used Words in Reviews
 -------------------------------
 help: 15
 project: 11
